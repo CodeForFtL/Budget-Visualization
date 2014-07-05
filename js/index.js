@@ -21,14 +21,41 @@ var path = sankey.link();
 
 // Changed to budget
 function do_with_budget(energy) {
+  //set up graph in same style as original example but empty
+  graph = {"nodes" : [], "links" : []};
+
+  energy.forEach(function (d) {
+    graph.nodes.push({ "name": d.source });
+    graph.nodes.push({ "name": d.target });
+    graph.links.push({ "source": d.source,
+                       "target": d.target,
+                       "value": +d.value });
+   });
+
+   // return only the distinct / unique nodes
+   graph.nodes = d3.keys(d3.nest()
+     .key(function (d) { return d.name; })
+     .map(graph.nodes));
+
+   // loop through each link replacing the text with its index from node
+   graph.links.forEach(function (d, i) {
+     graph.links[i].source = graph.nodes.indexOf(graph.links[i].source);
+     graph.links[i].target = graph.nodes.indexOf(graph.links[i].target);
+   });
+
+   //now loop through each nodes to make nodes an array of objects
+   // rather than an array of strings
+   graph.nodes.forEach(function (d, i) {
+     graph.nodes[i] = { "name": d };
+   });
 
   sankey
-      .nodes(energy.nodes)
-      .links(energy.links)
+      .nodes(graph.nodes)
+      .links(graph.links)
       .layout(32);
 
   var link = svg.append("g").selectAll(".link")
-      .data(energy.links)
+      .data(graph.links)
     .enter().append("path")
       .attr("class", "link")
       .attr("d", path)
@@ -42,7 +69,7 @@ function do_with_budget(energy) {
 
 
   var node = svg.append("g").selectAll(".node")
-      .data(energy.nodes)
+      .data(graph.nodes)
     .enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
@@ -68,31 +95,4 @@ function do_with_budget(energy) {
       .attr("text-anchor", "start");
 };
 
-/* Data for visualization below */
-
-cityData=
-{"nodes":[
-{"name":"Property Taxes"},
-{"name":"User Fees"},
-{"name":"Fire Assessment"},
-{"name":"Other Revenues"},
-{"name":"Fire"},
-{"name":"Police"},
-{"name":"Parks"}
-],
-"links":[
-{"source":0,"target":4,"value":5},
-{"source":0,"target":5,"value":15},
-{"source":0,"target":6,"value":5},
-
-{"source":1,"target":6,"value":10},
-
-{"source":2,"target":4,"value":5},
-
-{"source":3,"target":4,"value":15}
-
-
-
-]};
-
-do_with_budget(cityData);
+d3.csv("data/2014/adopted.csv", do_with_budget);
