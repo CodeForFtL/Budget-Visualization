@@ -95,8 +95,4 @@ function do_with_budget(energy) {
       .attr("text-anchor", "start");
 };
 
-<<<<<<< HEAD
 d3.csv("data/2014/adopted.csv", do_with_budget);
-=======
-d3.csv("data/2014/adopted.csv", do_with_budget);
->>>>>>> f881e2bf6169ed466b571ae41b9453b90544f02a
