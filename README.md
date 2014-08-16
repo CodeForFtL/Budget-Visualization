@@ -1,8 +1,6 @@
 Budget Visualization
 ============
 
-http://codeforftl.org/SimpleSankey/
+http://codeforftl.org/Budget-Visualization/
 
-Simple example of a Sankey visualization.
-
-Values are hard-coded for simplicity.
+Example of a Sankey visualization with Fort Lauderdale Budget data.
