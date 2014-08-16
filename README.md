@@ -1,4 +1,4 @@
-SimpleSankey
+Budget Visualization
 ============
 
 http://codeforftl.org/SimpleSankey/
