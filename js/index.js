@@ -24,12 +24,15 @@ function do_with_budget(energy) {
   //set up graph in same style as original example but empty
   graph = {"nodes" : [], "links" : []};
 
+  energy = energy.filter(function (row) {
+		return row["value"] > 0;
+		});
   energy.forEach(function (d) {
-    graph.nodes.push({ "name": d.source });
-    graph.nodes.push({ "name": d.target });
-    graph.links.push({ "source": d.source,
-                       "target": d.target,
-                       "value": +d.value });
+	    graph.nodes.push({ "name": d.source });
+	    graph.nodes.push({ "name": d.target });
+	    graph.links.push({ "source": d.source,
+		               "target": d.target,
+		               "value": +d.value });
    });
 
    // return only the distinct / unique nodes
