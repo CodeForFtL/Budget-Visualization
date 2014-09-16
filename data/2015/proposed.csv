@@ -7,75 +7,347 @@ General Fund,City Manager,4972340
 General Fund,Finance,5222401
 General Fund,Fire-Rescue,67101906
 General Fund,Human Resources,2734744
-General Fund,Information Technology Services,
+General Fund,Information Technology Services,0
 General Fund,Parks and Recreation,38331577
 General Fund,Police,93348847
 General Fund,Public Works,6258221
 General Fund,Sustainable Development,8025367
 General Fund,Transportation & Mobility,2382635
-General Fund,Debt Service,
+General Fund,Debt Service,0
 General Fund,Other General Government,17390748
-Water & Sewer/Central Regional Wastewater,City Attorney,
-Water & Sewer/Central Regional Wastewater,City Auditor,
-Water & Sewer/Central Regional Wastewater,City Clerk,
-Water & Sewer/Central Regional Wastewater,City Commission,
-Water & Sewer/Central Regional Wastewater,City Manager,
-Water & Sewer/Central Regional Wastewater,Finance,2621564
-Water & Sewer/Central Regional Wastewater,Fire-Rescue,
-Water & Sewer/Central Regional Wastewater,Human Resources,
-Water & Sewer/Central Regional Wastewater,Information Technology Services,
-Water & Sewer/Central Regional Wastewater,Parks and Recreation,
-Water & Sewer/Central Regional Wastewater,Police,
-Water & Sewer/Central Regional Wastewater,Public Works,93336032
-Water & Sewer/Central Regional Wastewater,Sustainable Development,
-Water & Sewer/Central Regional Wastewater,Transportation & Mobility,
-Water & Sewer/Central Regional Wastewater,Debt Service,33116202
-Water & Sewer/Central Regional Wastewater,Other General Government,
-Debt Service Funds,City Attorney,
-Debt Service Funds,City Auditor,
-Debt Service Funds,City Clerk,
-Debt Service Funds,City Commission,
-Debt Service Funds,City Manager,
-Debt Service Funds,Finance,
-Debt Service Funds,Fire-Rescue,
-Debt Service Funds,Human Resources,
-Debt Service Funds,Information Technology Services,
-Debt Service Funds,Parks and Recreation,
-Debt Service Funds,Police,
-Debt Service Funds,Public Works,
-Debt Service Funds,Sustainable Development,
-Debt Service Funds,Transportation & Mobility,
+Water & Sewer/ Central Regional Wastewater,City Attorney,0
+Water & Sewer/ Central Regional Wastewater,City Auditor,0
+Water & Sewer/ Central Regional Wastewater,City Clerk,0
+Water & Sewer/ Central Regional Wastewater,City Commission,0
+Water & Sewer/ Central Regional Wastewater,City Manager,0
+Water & Sewer/ Central Regional Wastewater,Finance,2621564
+Water & Sewer/ Central Regional Wastewater,Fire-Rescue,0
+Water & Sewer/ Central Regional Wastewater,Human Resources,0
+Water & Sewer/ Central Regional Wastewater,Information Technology Services,0
+Water & Sewer/ Central Regional Wastewater,Parks and Recreation,0
+Water & Sewer/ Central Regional Wastewater,Police,0
+Water & Sewer/ Central Regional Wastewater,Public Works,93336032
+Water & Sewer/ Central Regional Wastewater,Sustainable Development,0
+Water & Sewer/ Central Regional Wastewater,Transportation & Mobility,0
+Water & Sewer/ Central Regional Wastewater,Debt Service,33116202
+Water & Sewer/ Central Regional Wastewater,Other General Government,0
+Debt Service Funds,City Attorney,0
+Debt Service Funds,City Auditor,0
+Debt Service Funds,City Clerk,0
+Debt Service Funds,City Commission,0
+Debt Service Funds,City Manager,0
+Debt Service Funds,Finance,0
+Debt Service Funds,Fire-Rescue,0
+Debt Service Funds,Human Resources,0
+Debt Service Funds,Information Technology Services,0
+Debt Service Funds,Parks and Recreation,0
+Debt Service Funds,Police,0
+Debt Service Funds,Public Works,0
+Debt Service Funds,Sustainable Development,0
+Debt Service Funds,Transportation & Mobility,0
 Debt Service Funds,Debt Service,34629505
-Debt Service Funds,Other General Government,
-Building Funds,City Attorney,
-Building Funds,City Auditor,
-Building Funds,City Clerk,
-Building Funds,City Commission,
-Building Funds,City Manager,
-Building Funds,Finance,
-Building Funds,Fire-Rescue,
-Building Funds,Human Resources,
-Building Funds,Information Technology Services,
-Building Funds,Parks and Recreation,
-Building Funds,Police,
-Building Funds,Public Works,
+Debt Service Funds,Other General Government,0
+Building Funds,City Attorney,0
+Building Funds,City Auditor,0
+Building Funds,City Clerk,0
+Building Funds,City Commission,0
+Building Funds,City Manager,0
+Building Funds,Finance,0
+Building Funds,Fire-Rescue,0
+Building Funds,Human Resources,0
+Building Funds,Information Technology Services,0
+Building Funds,Parks and Recreation,0
+Building Funds,Police,0
+Building Funds,Public Works,0
 Building Funds,Sustainable Development,13208042
-Building Funds,Transportation & Mobility,
-Building Funds,Debt Service,
-Building Funds,Other General Government,
-Parking ,City Attorney,
-Parking ,City Auditor,
-Parking ,City Clerk,
-Parking ,City Commission,
-Parking ,City Manager,
-Parking ,Finance,
-Parking ,Fire-Rescue,
-Parking ,Human Resources,
-Parking ,Information Technology Services,
-Parking ,Parks and Recreation,
-Parking ,Police,
-Parking ,Public Works,
-Parking ,Sustainable Development,
+Building Funds,Transportation & Mobility,0
+Building Funds,Debt Service,0
+Building Funds,Other General Government,0
+Parking ,City Attorney,0
+Parking ,City Auditor,0
+Parking ,City Clerk,0
+Parking ,City Commission,0
+Parking ,City Manager,0
+Parking ,Finance,0
+Parking ,Fire-Rescue,0
+Parking ,Human Resources,0
+Parking ,Information Technology Services,0
+Parking ,Parks and Recreation,0
+Parking ,Police,0
+Parking ,Public Works,0
+Parking ,Sustainable Development,0
 Parking ,Transportation & Mobility,15360523
-Parking ,Debt Service,
-Parking ,Other General Government,
+Parking ,Debt Service,0
+Parking ,Other General Government,0
+Sanitation ,City Attorney,0
+Sanitation ,City Auditor,0
+Sanitation ,City Clerk,0
+Sanitation ,City Commission,0
+Sanitation ,City Manager,0
+Sanitation ,Finance,0
+Sanitation ,Fire-Rescue,0
+Sanitation ,Human Resources,0
+Sanitation ,Information Technology Services,0
+Sanitation ,Parks and Recreation,12573326
+Sanitation ,Police,0
+Sanitation ,Public Works,10751232
+Sanitation ,Sustainable Development,0
+Sanitation ,Transportation & Mobility,0
+Sanitation ,Debt Service,0
+Sanitation ,Other General Government,0
+Cemetery Perpetual Care ,City Attorney,0
+Cemetery Perpetual Care ,City Auditor,0
+Cemetery Perpetual Care ,City Clerk,0
+Cemetery Perpetual Care ,City Commission,0
+Cemetery Perpetual Care ,City Manager,0
+Cemetery Perpetual Care ,Finance,0
+Cemetery Perpetual Care ,Fire-Rescue,0
+Cemetery Perpetual Care ,Human Resources,0
+Cemetery Perpetual Care ,Information Technology Services,0
+Cemetery Perpetual Care ,Parks and Recreation,900259
+Cemetery Perpetual Care ,Police,0
+Cemetery Perpetual Care ,Public Works,0
+Cemetery Perpetual Care ,Sustainable Development,0
+Cemetery Perpetual Care ,Transportation & Mobility,0
+Cemetery Perpetual Care ,Debt Service,0
+Cemetery Perpetual Care ,Other General Government,0
+Vehicle Rental ,City Attorney,0
+Vehicle Rental ,City Auditor,0
+Vehicle Rental ,City Clerk,0
+Vehicle Rental ,City Commission,0
+Vehicle Rental ,City Manager,0
+Vehicle Rental ,Finance,0
+Vehicle Rental ,Fire-Rescue,0
+Vehicle Rental ,Human Resources,0
+Vehicle Rental ,Information Technology Services,0
+Vehicle Rental ,Parks and Recreation,0
+Vehicle Rental ,Police,0
+Vehicle Rental ,Public Works,15285932
+Vehicle Rental ,Sustainable Development,0
+Vehicle Rental ,Transportation & Mobility,0
+Vehicle Rental ,Debt Service,0
+Vehicle Rental ,Other General Government,0
+City Insurance ,City Attorney,0
+City Insurance ,City Auditor,0
+City Insurance ,City Clerk,0
+City Insurance ,City Commission,0
+City Insurance ,City Manager,0
+City Insurance ,Finance,0
+City Insurance ,Fire-Rescue,0
+City Insurance ,Human Resources,20643758
+City Insurance ,Information Technology Services,0
+City Insurance ,Parks and Recreation,0
+City Insurance ,Police,0
+City Insurance ,Public Works,0
+City Insurance ,Sustainable Development,0
+City Insurance ,Transportation & Mobility,0
+City Insurance ,Debt Service,0
+City Insurance ,Other General Government,0
+Airport ,City Attorney,0
+Airport ,City Auditor,0
+Airport ,City Clerk,0
+Airport ,City Commission,0
+Airport ,City Manager,0
+Airport ,Finance,0
+Airport ,Fire-Rescue,0
+Airport ,Human Resources,0
+Airport ,Information Technology Services,0
+Airport ,Parks and Recreation,0
+Airport ,Police,0
+Airport ,Public Works,0
+Airport ,Sustainable Development,0
+Airport ,Transportation & Mobility,7812103
+Airport ,Debt Service,0
+Airport ,Other General Government,0
+Stormwater ,City Attorney,0
+Stormwater ,City Auditor,0
+Stormwater ,City Clerk,0
+Stormwater ,City Commission,0
+Stormwater ,City Manager,0
+Stormwater ,Finance,0
+Stormwater ,Fire-Rescue,0
+Stormwater ,Human Resources,0
+Stormwater ,Information Technology Services,0
+Stormwater ,Parks and Recreation,0
+Stormwater ,Police,0
+Stormwater ,Public Works,5803546
+Stormwater ,Sustainable Development,0
+Stormwater ,Transportation & Mobility,0
+Stormwater ,Debt Service,0
+Stormwater ,Other General Government,0
+Self- Insured Health Benefits ,City Attorney,0
+Self- Insured Health Benefits ,City Auditor,0
+Self- Insured Health Benefits ,City Clerk,0
+Self- Insured Health Benefits ,City Commission,0
+Self- Insured Health Benefits ,City Manager,0
+Self- Insured Health Benefits ,Finance,0
+Self- Insured Health Benefits ,Fire-Rescue,0
+Self- Insured Health Benefits ,Human Resources,18231232
+Self- Insured Health Benefits ,Information Technology Services,0
+Self- Insured Health Benefits ,Parks and Recreation,0
+Self- Insured Health Benefits ,Police,0
+Self- Insured Health Benefits ,Public Works,0
+Self- Insured Health Benefits ,Sustainable Development,0
+Self- Insured Health Benefits ,Transportation & Mobility,0
+Self- Insured Health Benefits ,Debt Service,0
+Self- Insured Health Benefits ,Other General Government,0
+Community Redevelopment Agency,City Attorney,0
+Community Redevelopment Agency,City Auditor,0
+Community Redevelopment Agency,City Clerk,0
+Community Redevelopment Agency,City Commission,0
+Community Redevelopment Agency,City Manager,0
+Community Redevelopment Agency,Finance,0
+Community Redevelopment Agency,Fire-Rescue,0
+Community Redevelopment Agency,Human Resources,0
+Community Redevelopment Agency,Information Technology Services,0
+Community Redevelopment Agency,Parks and Recreation,0
+Community Redevelopment Agency,Police,0
+Community Redevelopment Agency,Public Works,0
+Community Redevelopment Agency,Sustainable Development,4593008
+Community Redevelopment Agency,Transportation & Mobility,0
+Community Redevelopment Agency,Debt Service,0
+Community Redevelopment Agency,Other General Government,0
+Central Services,City Attorney,0
+Central Services,City Auditor,0
+Central Services,City Clerk,0
+Central Services,City Commission,0
+Central Services,City Manager,0
+Central Services,Finance,0
+Central Services,Fire-Rescue,0
+Central Services,Human Resources,0
+Central Services,Information Technology Services,15261924
+Central Services,Parks and Recreation,0
+Central Services,Police,0
+Central Services,Public Works,0
+Central Services,Sustainable Development,0
+Central Services,Transportation & Mobility,0
+Central Services,Debt Service,0
+Central Services,Other General Government,0
+Housing & Community Development ,City Attorney,0
+Housing & Community Development ,City Auditor,0
+Housing & Community Development ,City Clerk,0
+Housing & Community Development ,City Commission,0
+Housing & Community Development ,City Manager,0
+Housing & Community Development ,Finance,0
+Housing & Community Development ,Fire-Rescue,0
+Housing & Community Development ,Human Resources,0
+Housing & Community Development ,Information Technology Services,0
+Housing & Community Development ,Parks and Recreation,0
+Housing & Community Development ,Police,0
+Housing & Community Development ,Public Works,0
+Housing & Community Development ,Sustainable Development,9371773
+Housing & Community Development ,Transportation & Mobility,0
+Housing & Community Development ,Debt Service,0
+Housing & Community Development ,Other General Government,0
+Police Confiscation Funds,City Attorney,0
+Police Confiscation Funds,City Auditor,0
+Police Confiscation Funds,City Clerk,0
+Police Confiscation Funds,City Commission,0
+Police Confiscation Funds,City Manager,0
+Police Confiscation Funds,Finance,0
+Police Confiscation Funds,Fire-Rescue,0
+Police Confiscation Funds,Human Resources,0
+Police Confiscation Funds,Information Technology Services,0
+Police Confiscation Funds,Parks and Recreation,0
+Police Confiscation Funds,Police,1359256
+Police Confiscation Funds,Public Works,0
+Police Confiscation Funds,Sustainable Development,0
+Police Confiscation Funds,Transportation & Mobility,0
+Police Confiscation Funds,Debt Service,0
+Police Confiscation Funds,Other General Government,0
+Arts & Science District Garage,City Attorney,0
+Arts & Science District Garage,City Auditor,0
+Arts & Science District Garage,City Clerk,0
+Arts & Science District Garage,City Commission,0
+Arts & Science District Garage,City Manager,0
+Arts & Science District Garage,Finance,0
+Arts & Science District Garage,Fire-Rescue,0
+Arts & Science District Garage,Human Resources,0
+Arts & Science District Garage,Information Technology Services,0
+Arts & Science District Garage,Parks and Recreation,0
+Arts & Science District Garage,Police,0
+Arts & Science District Garage,Public Works,0
+Arts & Science District Garage,Sustainable Development,0
+Arts & Science District Garage,Transportation & Mobility,1160555
+Arts & Science District Garage,Debt Service,0
+Arts & Science District Garage,Other General Government,0
+Beach Business Improvement District,City Attorney,0
+Beach Business Improvement District,City Auditor,0
+Beach Business Improvement District,City Clerk,0
+Beach Business Improvement District,City Commission,0
+Beach Business Improvement District,City Manager,0
+Beach Business Improvement District,Finance,0
+Beach Business Improvement District,Fire-Rescue,0
+Beach Business Improvement District,Human Resources,0
+Beach Business Improvement District,Information Technology Services,0
+Beach Business Improvement District,Parks and Recreation,0
+Beach Business Improvement District,Police,0
+Beach Business Improvement District,Public Works,0
+Beach Business Improvement District,Sustainable Development,699107
+Beach Business Improvement District,Transportation & Mobility,0
+Beach Business Improvement District,Debt Service,0
+Beach Business Improvement District,Other General Government,0
+School Crossing Guard,City Attorney,0
+School Crossing Guard,City Auditor,0
+School Crossing Guard,City Clerk,0
+School Crossing Guard,City Commission,0
+School Crossing Guard,City Manager,0
+School Crossing Guard,Finance,0
+School Crossing Guard,Fire-Rescue,0
+School Crossing Guard,Human Resources,0
+School Crossing Guard,Information Technology Services,0
+School Crossing Guard,Parks and Recreation,0
+School Crossing Guard,Police,893012
+School Crossing Guard,Public Works,0
+School Crossing Guard,Sustainable Development,0
+School Crossing Guard,Transportation & Mobility,0
+School Crossing Guard,Debt Service,0
+School Crossing Guard,Other General Government,0
+State Housing Improvement Program,City Attorney,0
+State Housing Improvement Program,City Auditor,0
+State Housing Improvement Program,City Clerk,0
+State Housing Improvement Program,City Commission,0
+State Housing Improvement Program,City Manager,0
+State Housing Improvement Program,Finance,0
+State Housing Improvement Program,Fire-Rescue,0
+State Housing Improvement Program,Human Resources,0
+State Housing Improvement Program,Information Technology Services,0
+State Housing Improvement Program,Parks and Recreation,0
+State Housing Improvement Program,Police,0
+State Housing Improvement Program,Public Works,0
+State Housing Improvement Program,Sustainable Development,798953
+State Housing Improvement Program,Transportation & Mobility,0
+State Housing Improvement Program,Debt Service,0
+State Housing Improvement Program,Other General Government,0
+Nuisance Abatement,City Attorney,0
+Nuisance Abatement,City Auditor,0
+Nuisance Abatement,City Clerk,0
+Nuisance Abatement,City Commission,0
+Nuisance Abatement,City Manager,0
+Nuisance Abatement,Finance,0
+Nuisance Abatement,Fire-Rescue,0
+Nuisance Abatement,Human Resources,0
+Nuisance Abatement,Information Technology Services,0
+Nuisance Abatement,Parks and Recreation,0
+Nuisance Abatement,Police,0
+Nuisance Abatement,Public Works,0
+Nuisance Abatement,Sustainable Development,400000
+Nuisance Abatement,Transportation & Mobility,0
+Nuisance Abatement,Debt Service,0
+Nuisance Abatement,Other General Government,0
+Sunrise Key,City Attorney,0
+Sunrise Key,City Auditor,0
+Sunrise Key,City Clerk,0
+Sunrise Key,City Commission,0
+Sunrise Key,City Manager,0
+Sunrise Key,Finance,0
+Sunrise Key,Fire-Rescue,0
+Sunrise Key,Human Resources,0
+Sunrise Key,Information Technology Services,0
+Sunrise Key,Parks and Recreation,0
+Sunrise Key,Police,0
+Sunrise Key,Public Works,0
+Sunrise Key,Sustainable Development,0
+Sunrise Key,Transportation & Mobility,0
+Sunrise Key,Debt Service,0
+Sunrise Key,Other General Government,80308
